@@ -1,0 +1,6 @@
+Assets/Assets/FelPudo/*
+Assets/Assets/Inimigo/*
+Assets/Assets/*
+
+!Assets/Assets/FelPudo
+!Assets/Assets/Inimigo
